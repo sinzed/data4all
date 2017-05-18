@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="osmdroid-geopackage-5.6.4-release-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/osmdroid-geopackage-5.6.4-release-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

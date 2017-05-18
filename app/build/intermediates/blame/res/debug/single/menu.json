@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tag.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\menu\\tag.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_actionbar.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\menu\\main_actionbar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\about.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\menu\\about.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\track_menu.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\menu\\track_menu.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\result_view.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\menu\\result_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\licenses.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\menu\\licenses.xml"
+    }
+]

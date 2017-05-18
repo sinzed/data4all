@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayoutResultView"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <io.github.data4all.view.D4AMapView
+        android:id="@+id/mapviewResult"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp" />
+    
+    <io.github.data4all.widged.CustomImageButton
+        android:id="@+id/buttonResult"
+        style="@style/imageButtonOkay"
+        android:contentDescription="@string/returnToActualPosition" />
+
+    <io.github.data4all.widged.CustomImageButton
+        android:id="@+id/buttonResultToCamera"
+        style="@style/imageButtonReturnToCamera"
+        android:contentDescription="@string/returnToCamera" />
+    
+    <Button
+        android:id="@+id/buttonAddressSuggestions"
+       android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="10dp"
+         android:layout_below="@+id/mapviewResult"
+        android:background="@android:color/background_dark"
+        android:textColor="@android:color/white" 
+        android:text="@string/selectAddress"/>
+
+    <ListView
+        android:id="@+id/listViewResultView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/buttonClassifiedTag"
+        android:layout_marginTop="10dp"  >
+
+    </ListView>
+
+    <Button
+        android:id="@+id/buttonClassifiedTag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+         android:layout_below="@+id/buttonAddressSuggestions"
+         android:layout_marginTop="10dp" 
+         android:background="@android:color/background_dark"
+         android:textColor="@android:color/white"
+        android:text="@string/SelectTag" />
+
+       <!--android:layout_below="@+id/mapviewResult"-->
+</RelativeLayout>

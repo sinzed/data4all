@@ -1,0 +1,56 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .checkstyle
+* .gitignore
+* LICENSE.txt
+* README.md
+* lib\
+* lib\android\
+* lib\android\support_v4\
+* lib\android\support_v4\22.0\
+* lib\android\support_v4\22.0\support_v4-22.0.jar
+* lib\obp\
+* lib\obp\osmbonuspack\
+* lib\obp\osmbonuspack\5.1\
+* lib\obp\osmbonuspack\5.1\osmbonuspack-5.1.jar
+* lib\osm3p\
+* lib\osm3p\osmdroid-third-party\
+* lib\osm3p\osmdroid-third-party\4.2\
+* lib\osm3p\osmdroid-third-party\4.2\osmdroid-third-party-4.2.jar
+* lib\tls\
+* lib\tls\tls\
+* lib\tls\tls\1.0\
+* lib\tls\tls\1.0\tls-1.0.jar
+* pom.xml
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Me4d\app_repo\Data4All-1.3\app\libs\osmdroid-android-4.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2fcf7bc3cb27daa6e67c8990ea418d19f6b5b296">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\2\osmdroid-android-4.3_750c482c2b6f2b5eaafa9daa01b9f3473c5c56b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-26.0.0-alpha1_08bcc6a1b7a46fcd7db5a780878da24c7179e6b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="304835462a8c59b4599d199c355d3f59acf5671e">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_39e4645cc3d293c68ff3232fc49f0dfdaed61228\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-26.0.0-alpha1_40826b10f3a2851ef58b2efb0384139210de15da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Me4d\app_repo\Data4All-1.3\app\libs\commons-io-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b24f6678d458e65f08113a079e3724581eca1184">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-io-2.5_f708145abe0bc37bd8354b224a6f545bf7c43978\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Me4d\app_repo\Data4All-1.3\app\libs\acra-4.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44a5eb946e0d83eed4a0128d877ca1fd8168b83a">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\2\acra-4.5.0_0ff4989442f0350b6fa976b781d370892fa3a2c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-26.0.0-alpha1_b3bc5e9ee797c3656b49e358d37b2ecf403f6188\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Me4d\app_repo\Data4All-1.3\app\libs\httpclient-4.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d1577ae15f01ef5438c5afc62162457c00a34713">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.5.3_55550b2c04eb6dcf1e0698ba13d216281f4c7c90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Me4d\app_repo\Data4All-1.3\app\libs\osmdroid-third-party-4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="54a8b9f61f77794c0e0d778f51974e4a3f5cf669">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\2\osmdroid-third-party-4.2_e7005c9698c97628502e4388c2ada796c3493170\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Me4d\app_repo\Data4All-1.3\app\libs\signpost-commonshttp-1.2.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1e6380adcb5808bfe13a934a2f35bfeed1adbc49">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\2\signpost-commonshttp-1.2.1.1_b13fcfcb9daf4f6ff95dfc8e52a25dc851d52edb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\len\.gradle\caches\modules-2\files-2.1\org.bouncycastle\bcprov-jdk15on\1.50\be504b4901d75cbe129a178f5830e6c358ec214c\bcprov-jdk15on-1.50.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="be504b4901d75cbe129a178f5830e6c358ec214c">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\bcprov-jdk15on-1.50_c3f1ea6b29348a651256840494cdd0616dd98594\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-26.0.0-alpha1_272f3db5c3d779e609646a1a794bc4e1ab805642\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\len\.gradle\caches\modules-2\files-2.1\net.schmizz\sshj\0.10.0\35d313db208a25189962266a9bd36553310c65f6\sshj-0.10.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="35d313db208a25189962266a9bd36553310c65f6">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\sshj-0.10.0_10e5bbb4e5c97d29e82d004fd77ce8537768291a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Me4d\app_repo\Data4All-1.3\app\libs\signpost-core-1.2.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bf95955dcf3d5a78c201e49b0c336787ea73f161">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\2\signpost-core-1.2.1.2_3ef9c8e8007303dbf548cca3af064c38e9d76b8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\len\.gradle\caches\modules-2\files-2.1\org.bouncycastle\bcpkix-jdk15on\1.50\f82f869cbf31fdb3419487dd58f4189c33ec9acd\bcpkix-jdk15on-1.50.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f82f869cbf31fdb3419487dd58f4189c33ec9acd">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\bcpkix-jdk15on-1.50_984e488a08b6adc514c9c924897ec86035116231\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Me4d\app_repo\Data4All-1.3\app\libs\osmbonuspack-5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6056a0c43cd37168d2bbcc0bdac23b9b8c5452f2">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\2\osmbonuspack-5.1_67dd6a0d0bfdee957e6bdbb9bd9b1846d3eee8ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fddb79f96fa6d928a67748ee977702c1e688fcc4">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8b3df5750409993157968f617a0a801c38612f6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-26.0.0-alpha1_189b34ec7fec9e9cfc9abfe01eac927eebfad5f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-26.0.0-alpha1_a96d4e045f4a619dab21246a703cc1b0a571acff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Me4d\app_repo\Data4All-1.3\app\libs\httpcore-4.4.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e3fd8ced1f52c7574af952e2e6da0df8df08eb82">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-4.4.6_2170dfc55cf0b061c0613b54c5331e5ce3f9a9e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Me4d\app_repo\Data4All-1.3\app\libs\httpmime-4.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5b0002c5fb66867ca919be0fbd86de1cfaf76da7">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.3_9ba6a04008ee51c7d4511e3fb1644800d29a0736\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Me4d\app_repo\Data4All-1.3\app\libs\android-support-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcbf4461f540d9e6f19cb94b3b3e8207e42f9a71">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-4.0_cfc7a9eca6ad968f1dc5deb3c47b54ade666d0cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\len\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.7\2b8019b6249bb05d81d3a3094e468753e2b21311\slf4j-api-1.7.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2b8019b6249bb05d81d3a3094e468753e2b21311">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\slf4j-api-1.7.7_2a32a45189b695ddaccf920189cc4a88a8d5a692\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Projects\Me4d\app_repo\Data4All-1.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_228f7bb0f44f01f72bb8114932031a7467ef60db\classes.dex" />
+    </item>
+
+</items>

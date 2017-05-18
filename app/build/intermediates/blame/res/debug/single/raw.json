@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tag_keys.txt",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\raw\\tag_keys.txt"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tag_values.txt",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\raw\\tag_values.txt"
+    }
+]

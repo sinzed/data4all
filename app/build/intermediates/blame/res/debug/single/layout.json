@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_result_view.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\activity_result_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_contacts.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\dialog_contacts.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gps_row_item.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\gps_row_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_edit_track_tags.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\dialog_edit_track_tags.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map_view.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\activity_map_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tag.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\activity_tag.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_edit_track_description.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\dialog_edit_track_description.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help_mapviewactivity.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\help_mapviewactivity.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_upload.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\activity_upload.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tagcoppy.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\activity_tagcoppy.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_matches.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\dialog_matches.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help_cameraactivity.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\help_cameraactivity.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map_preview.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\activity_map_preview.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bonuspack_bubble.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\bonuspack_bubble.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_details.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\dialog_details.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\checkbox.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\checkbox.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_track_name.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\edit_track_name.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_upload.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\notification_upload.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_licenses.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\activity_licenses.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_dynamic.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\dialog_dynamic.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_listitem_deleteall.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\view_listitem_deleteall.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_picture.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\activity_picture.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_listitem.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\view_listitem.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reaction_sensor.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\activity_reaction_sensor.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help_showpictureactivity.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\help_showpictureactivity.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help_mappreviewactivity.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\help_mappreviewactivity.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_adress_suggestions.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\view_adress_suggestions.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help_resultviewactivity.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\help_resultviewactivity.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera_list.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\activity_camera_list.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tracklist_view.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\activity_tracklist_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_track_details.xml",
+        "source": "D:\\Projects\\Me4d\\app_repo\\Data4All-1.3\\app\\src\\main\\res\\layout\\activity_track_details.xml"
+    }
+]

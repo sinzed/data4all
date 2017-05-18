@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="io.github.data4all"
+    android:versionCode="6"
+    android:versionName="1.3" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="26.0.0-alpha1" />
+
+    <application
+        android:name="io.github.data4all.Data4AllApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/D4ATheme" >
+        <meta-data
+            android:name="MAPBOX_AUTHKEY"
+            android:value="pk.eyJ1IjoiZGF0YTRhbGwiLCJhIjoiYlNHWlFSayJ9.vN6iDHPsVupbT9yXdlT9Xg" />
+        <meta-data
+            android:name="BING_KEY"
+            android:value="AqSiekJUO7cJuE4nWOtuDO1-hkcM1T9rNL-p2Qymqkn3uJd9smHb-pvwhdE5c3RZ" />
+
+        <activity android:name="io.github.data4all.activity.MapViewActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="io.github.data4all.activity.MapPreviewActivity" />
+        <activity
+            android:name="io.github.data4all.activity.ShowPictureActivity"
+            android:configChanges="keyboardHidden|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="io.github.data4all.activity.CameraActivity"
+            android:configChanges="keyboardHidden|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="io.github.data4all.activity.ResultViewActivity"
+            android:configChanges="keyboardHidden|screenSize" />
+        <activity android:name="io.github.data4all.activity.SettingsActivity" />
+        <activity
+            android:name="io.github.data4all.activity.TagActivity"
+            android:theme="@android:style/Theme.Holo.Dialog.MinWidth" />
+        <activity android:name="io.github.data4all.activity.LoginActivity" />
+        <activity
+            android:name="io.github.data4all.activity.UploadActivity"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="io.github.data4all.activity.GpsTrackListActivity"
+            android:label="Track List" />
+        <activity android:name="io.github.data4all.activity.TrackDetailsActivity" />
+
+        <service android:name="io.github.data4all.service.UploadElementsService" />
+        <service android:name="io.github.data4all.service.UploadTracksService" />
+        <service
+            android:name="io.github.data4all.service.GPSservice"
+            android:label="GPS Service" >
+        </service>
+        <service
+            android:name="io.github.data4all.service.OrientationListener"
+            android:enabled="true" />
+        <service
+            android:name="io.github.data4all.service.MapTileService"
+            android:enabled="true" />
+
+        <activity
+            android:name="io.github.data4all.activity.AboutActivity"
+            android:label="@string/title_activity_about" >
+        </activity>
+        <activity
+            android:name="io.github.data4all.activity.LicensesActivity"
+            android:label="@string/title_activity_licenses" >
+        </activity>
+    </application>
+
+</manifest>
